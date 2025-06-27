@@ -33,7 +33,7 @@ The goal of this notebook is to apply standardization (also known as feature sca
 
 ## 🛠️ Technologies
 
-- Python 3.x  
+- Python
 - pandas  
 - scikit-learn
 - matplotlib
